@@ -1,0 +1,27 @@
+Average volume over run is 3111.31
+
+Dipole moment (Debye)
+---------------------
+Average  = 918.0514  Std. Dev. =  32.6872  Error =   2.0632
+
+The following averages for the complete trajectory have been calculated:
+
+ Total < M_x > = 598.021 Debye
+ Total < M_y > = 146.812 Debye
+ Total < M_z > = 646.118 Debye
+
+ Total < M_x^2 > = 362411 Debye^2
+ Total < M_y^2 > = 62066.8 Debye^2
+ Total < M_z^2 > = 419409 Debye^2
+
+ Total < |M|^2 > = 843887 Debye^2
+ Total |< M >|^2 = 796651 Debye^2
+
+ < |M|^2 > - |< M >|^2 = 47235.5 Debye^2
+
+Finite system Kirkwood g factor G_k = 0.0560447
+Infinite system Kirkwood g factor g_k = 0.0443811
+
+Epsilon = 2.66194
+
+GROMACS reminds you: "Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth." (Jules Verne)
