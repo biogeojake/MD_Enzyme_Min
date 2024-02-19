@@ -1,10 +1,3 @@
----
-title: "Preparing Trajectory Files"
-author: "Jake Perez"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 ## Concatenating Trajectories
 
 After completing data production for the MD simulations, the individual trajectories will need to be concatenated using `gmx trjcat` to create a continuous trajectory.
