@@ -1,10 +1,3 @@
----
-title: "RMSD Analysis"
-author: "Jake Perez"
-format: html
-editor: visual
----
-
 ## Calculating RMSD for a Single System
 
 The root-mean-square-deviation (RMSD) of the enzyme backbone from the predicted ColabFold structure was calculated using the `gmx rms` function in GROMACS. The trajectory was manipulated to perform a best fit of the backbone to the reference structure present within the initial topology file.
